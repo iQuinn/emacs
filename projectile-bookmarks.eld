@@ -1,0 +1,1 @@
+("~/Downloads/rime_OpenCC_emoji_symbols/" "~/Downloads/sms/" "~/Downloads/")
